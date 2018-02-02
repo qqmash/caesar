@@ -1,5 +1,5 @@
 <?php
-class CesarCipher {
+class CaesarCipher {
     private $alphabet;
     private $shift;
 
